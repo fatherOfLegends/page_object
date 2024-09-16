@@ -133,6 +133,7 @@ class _HasText extends CustomMatcher {
 ## License Information
 
 Copyright 2024 Larry McKenzie
+
 Copyright 2019-2024 eBay Inc.
 
 Redistribution and use in source and binary forms, with or without
