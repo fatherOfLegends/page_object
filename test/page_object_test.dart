@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:page_object/page_object.dart';
+import 'package:page_object_fol_edition/page_object.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
