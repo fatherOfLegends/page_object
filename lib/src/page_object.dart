@@ -23,12 +23,10 @@ class PageObject implements Finder {
       _finder.findInCandidates(candidates);
 
   @override
-  // TODO(anyone): remove once deprecated member use is removed
   // ignore: deprecated_member_use
   String get description => _finder.description;
 
   @override
-  // TODO(anyone): remove once deprecated member use is removed
   Iterable<Element> apply(Iterable<Element> candidates) =>
       // ignore: deprecated_member_use
       _finder.apply(candidates);
@@ -53,7 +51,6 @@ class PageObject implements Finder {
   Finder get last => _finder.last;
 
   @override
-  // TODO(anyone): remove once deprecated member use is removed
   // ignore: deprecated_member_use
   bool precache() => _finder.precache();
 
